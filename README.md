@@ -6,7 +6,7 @@ Write a simple python program to modulate and demodulate the pulse signal and sh
 Python 3.x
 
 **Program**
-# PCM import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
 
 # Parameters

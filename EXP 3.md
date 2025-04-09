@@ -6,7 +6,8 @@ Write a simple python program to modulate and demodulate the pulse signal and sh
 Python 3.x
 
 **Program**
-import matplotlib.pyplot as plt
+```
+# PCM import matplotlib.pyplot as plt
 import numpy as np
 
 # Parameters
@@ -70,6 +71,10 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
+
+
+
+```
 **Output Waveform**
 ![image](https://github.com/user-attachments/assets/0f0cb64d-7f1d-4384-b699-91e79a3d70c4)
 
